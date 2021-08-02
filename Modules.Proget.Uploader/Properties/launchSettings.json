@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Modules.Proget.Uploader": {
+      "commandName": "Project",
+      "commandLineArgs": "-r 4 -t 300000 -f file1 file2 -d  destinationFolder -s sourceFolder -e http://dl39r14g2:81 -n AssetName -a ApiKey -c 5242880"
+    }
+  }
+}
